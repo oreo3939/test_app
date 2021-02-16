@@ -5,8 +5,11 @@
 ## 画像を分類する
 <img width="404" alt="スクリーンショット 2021-02-07 223003" src="https://user-images.githubusercontent.com/73522021/107148107-cb311580-6994-11eb-8582-2eb8d9ac4bb8.png">
 
-### requirements.txtを一括インストール
-### classifier.py起動
+## 使い方
+$ git clone https://github.com/oreo3939/test_app.git
+$ pip install -r requirements.txt
+$ python classifier.py
+
 
 
 
