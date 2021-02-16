@@ -7,7 +7,9 @@
 
 ## 使い方
 $ git clone https://github.com/oreo3939/test_app.git
+
 $ pip install -r requirements.txt
+
 $ python classifier.py
 
 
